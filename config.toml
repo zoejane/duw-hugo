@@ -4,6 +4,9 @@ enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
 
+publishDir = "docs"
+
+
 # language support # en / zh-cn / other...
 defaultContentLanguage = "en"
 [Languages.en]
