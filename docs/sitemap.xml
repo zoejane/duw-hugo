@@ -10,6 +10,27 @@
   </url>
   
   <url>
+    <loc>http://blog.zoejane.net/duw-hugo/post/du0w/</loc>
+    <lastmod>2018-03-27T21:49:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.zoejane.net/duw-hugo/post/du1w/</loc>
+    <lastmod>2018-03-27T21:49:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.zoejane.net/duw-hugo/post/du2w/</loc>
+    <lastmod>2018-03-27T21:49:37+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.zoejane.net/duw-hugo/post/jane-theme-preview/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,7 +178,7 @@
   
   <url>
     <loc>http://blog.zoejane.net/duw-hugo/post/</loc>
-    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <lastmod>2018-03-27T21:49:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
