@@ -1,4 +1,4 @@
-baseURL = "http://blog.zoejane.net/duw-hugo/"
+baseURL = "http://duw-hugo.netlify.com"
 title = "Jane - A super concise theme for Hugo"
 enableRobotsTXT = true
 enableEmoji = true
